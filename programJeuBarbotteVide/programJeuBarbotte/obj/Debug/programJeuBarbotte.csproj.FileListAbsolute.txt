@@ -1,0 +1,22 @@
+G:\Denis\Cégep\Programmation 2\H-2018\programJeuBarbotte\programJeuBarbotte\bin\Debug\programJeuBarbotte.exe.config
+G:\Denis\Cégep\Programmation 2\H-2018\programJeuBarbotte\programJeuBarbotte\bin\Debug\programJeuBarbotte.exe
+G:\Denis\Cégep\Programmation 2\H-2018\programJeuBarbotte\programJeuBarbotte\bin\Debug\programJeuBarbotte.pdb
+G:\Denis\Cégep\Programmation 2\H-2018\programJeuBarbotte\programJeuBarbotte\obj\Debug\programJeuBarbotte.csprojResolveAssemblyReference.cache
+G:\Denis\Cégep\Programmation 2\H-2018\programJeuBarbotte\programJeuBarbotte\obj\Debug\programJeuBarbotte.Form1.resources
+G:\Denis\Cégep\Programmation 2\H-2018\programJeuBarbotte\programJeuBarbotte\obj\Debug\programJeuBarbotte.Properties.Resources.resources
+G:\Denis\Cégep\Programmation 2\H-2018\programJeuBarbotte\programJeuBarbotte\obj\Debug\programJeuBarbotte.csproj.GenerateResource.Cache
+G:\Denis\Cégep\Programmation 2\H-2018\programJeuBarbotte\programJeuBarbotte\obj\Debug\programJeuBarbotte.exe
+G:\Denis\Cégep\Programmation 2\H-2018\programJeuBarbotte\programJeuBarbotte\obj\Debug\programJeuBarbotte.pdb
+G:\Denis\Cégep\Programmation 2\H-2018\programJeuBarbotteVide\programJeuBarbotte\bin\Debug\programJeuBarbotte.exe.config
+G:\Denis\Cégep\Programmation 2\H-2018\programJeuBarbotteVide\programJeuBarbotte\obj\Debug\programJeuBarbotte.exe
+G:\Denis\Cégep\Programmation 2\H-2018\programJeuBarbotteVide\programJeuBarbotte\obj\Debug\programJeuBarbotte.pdb
+C:\Denis\Cegep\Cours\Programmation Orienté Objet\Exercice de révision C# non objet\Barbotte\JeuBarbotteVideEtudiant\programJeuBarbotteVide\programJeuBarbotte\bin\Debug\programJeuBarbotte.exe.config
+C:\Denis\Cegep\Cours\Programmation Orienté Objet\Exercice de révision C# non objet\Barbotte\JeuBarbotteVideEtudiant\programJeuBarbotteVide\programJeuBarbotte\bin\Debug\programJeuBarbotte.exe
+C:\Denis\Cegep\Cours\Programmation Orienté Objet\Exercice de révision C# non objet\Barbotte\JeuBarbotteVideEtudiant\programJeuBarbotteVide\programJeuBarbotte\bin\Debug\programJeuBarbotte.pdb
+C:\Denis\Cegep\Cours\Programmation Orienté Objet\Exercice de révision C# non objet\Barbotte\JeuBarbotteVideEtudiant\programJeuBarbotteVide\programJeuBarbotte\obj\Debug\programJeuBarbotte.csproj.AssemblyReference.cache
+C:\Denis\Cegep\Cours\Programmation Orienté Objet\Exercice de révision C# non objet\Barbotte\JeuBarbotteVideEtudiant\programJeuBarbotteVide\programJeuBarbotte\obj\Debug\programJeuBarbotte.Form1.resources
+C:\Denis\Cegep\Cours\Programmation Orienté Objet\Exercice de révision C# non objet\Barbotte\JeuBarbotteVideEtudiant\programJeuBarbotteVide\programJeuBarbotte\obj\Debug\programJeuBarbotte.Properties.Resources.resources
+C:\Denis\Cegep\Cours\Programmation Orienté Objet\Exercice de révision C# non objet\Barbotte\JeuBarbotteVideEtudiant\programJeuBarbotteVide\programJeuBarbotte\obj\Debug\programJeuBarbotte.csproj.GenerateResource.cache
+C:\Denis\Cegep\Cours\Programmation Orienté Objet\Exercice de révision C# non objet\Barbotte\JeuBarbotteVideEtudiant\programJeuBarbotteVide\programJeuBarbotte\obj\Debug\programJeuBarbotte.csproj.CoreCompileInputs.cache
+C:\Denis\Cegep\Cours\Programmation Orienté Objet\Exercice de révision C# non objet\Barbotte\JeuBarbotteVideEtudiant\programJeuBarbotteVide\programJeuBarbotte\obj\Debug\programJeuBarbotte.exe
+C:\Denis\Cegep\Cours\Programmation Orienté Objet\Exercice de révision C# non objet\Barbotte\JeuBarbotteVideEtudiant\programJeuBarbotteVide\programJeuBarbotte\obj\Debug\programJeuBarbotte.pdb
