@@ -22,6 +22,7 @@ namespace Barbotte
                          "joueur continue à jouer le dé jusqu'à ce qu'il refasse ces points c'est à \n" +
                          "dire qu'il lance la même valeur que son premier jet pour gagner. Le joueur \n" +
                          "perd s'il lace une somme de 7 avant de refaire ces points. ");
+
         }
 
         private void btnQuitter_Click(object sender, EventArgs e)
