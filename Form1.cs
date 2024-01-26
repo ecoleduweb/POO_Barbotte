@@ -9,7 +9,23 @@ namespace Barbotte
 
         private void btnBrasserDes_Click(object sender, EventArgs e)
         {
-
+            int bob = 1;
+            int bob2 = 3;
+            if (bob == 1)
+            {
+                MessageBox.Show("AAllo");
+            }
+            else if (bob == 2)
+            {
+                MessageBox.Show("AAllo");
+            }
+            else if (bob == 2)
+            {
+                MessageBox.Show("AAllo");
+            }
+            if (bob2 == 1) {
+                MessageBox.Show("AAllo");
+            }
         }
 
         private void btnReglement_Click(object sender, EventArgs e)
