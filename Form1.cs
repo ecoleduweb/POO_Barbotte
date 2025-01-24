@@ -2,26 +2,20 @@ namespace Barbotte
 {
     public partial class Form1 : Form
     {
-        bool isFirstThrow = true, isWin = false;
-        bool isGameOver = false;
+        bool isGameOver = false, isWin = false;
         int numberToMatch = 0, numberOfThrows = 0;
         public Form1()
         {
             InitializeComponent();
         }
-
         private void btnBrasserDes_Click(object sender, EventArgs e)
         {
             numberOfThrows++;
+            bool isFirstThrow = numberOfThrows == 1;
             int die1 = Random.Shared.Next(1, 7);
             int die2 = Random.Shared.Next(1, 7);
             int total = die1 + die2;
-            // Ton code ici. On brasse les dés seulement lorsqu'on clic.
-            // pense à gérer les cas où le joueur gagne ou perd en affichant une boîte de dialogue.
-            // Tu peux utiliser la méthode MessageBox.Show("Ton message ici") pour afficher un message.
-            // Pour afficher les valeurs des dés, tu peux utiliser les propriétés Text des labels.
-            // Pour les valeurs des dés, tu peux utiliser la méthode Random.Next pour obtenir un nombre aléatoire entre 1 et 6.
-            if (isFirstThrow)
+            if (!isFirstThrow)
             {
                 switch (total)
                 {
@@ -38,24 +32,21 @@ namespace Barbotte
                         break;
                     default:
                         numberToMatch = total;
-                        isFirstThrow = false;
                         break;
                 }
             }
-            else
+            // Si ce n'est pas le premier jet
+            else if (numberToMatch == total)
             {
-                if (numberToMatch == total)
-                {
-                    isWin= true;
-                    isGameOver= true;
-                }
-                else if (total == 7)
-                {
-                    isWin= false;
-                    isGameOver= true;
-                }
-
+                isWin= true;
+                isGameOver= true;
             }
+            else if (total == 7)
+            {
+                isWin= false;
+                isGameOver= true;
+            }
+
 
             updateUI(die1, die2);
             if (isGameOver)
@@ -74,9 +65,8 @@ namespace Barbotte
 
         private void resetGame()
         {
-            isFirstThrow = true;
             isGameOver = false;
-            numberOfThrows++;
+            numberOfThrows = 0;
             numberToMatch =  0;
             resetUI();
         }
